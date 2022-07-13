@@ -1,0 +1,64 @@
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.first-box {
+    box-sizing: border-box;
+    background: silver;
+    height: 750px;
+    width: 750px;
+
+}
+
+.icon {
+    left: 80px;
+    margin: 40px 0;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 150px;
+    height: 50px;
+    background: #112B3A;
+    border-radius: 9px;
+}
+
+.icons{
+    color: #848AAA;
+    font-size: 22px;
+    margin-right: 25px;
+}
+
+.icons-wrapper{
+    right: 125px;
+    position: absolute;
+    display: flex;
+}
+
+
+.second-box{
+    background: #102B3E;
+    width: 750px;
+    height: 450px;
+    box-sizing: border-box;
+}
+
+.cards{
+    justify-content: space-evenly;
+    display: flex;
+}
+
+
+.card{
+    bottom: 80px;
+    position: relative;
+    width: 160px;
+    height: 160px;
+    background: #6964E2;
+    border-radius: 9px;
+}

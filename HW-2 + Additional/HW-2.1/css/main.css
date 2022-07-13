@@ -1,0 +1,44 @@
+.block{
+    display: flex;
+    justify-content: center;
+}
+
+
+.container {
+    display: flex;
+    margin: 10px;
+}
+
+.info {
+    width: 250px;
+    height: 300px;
+    color: gray;
+    border: solid 2px gray;
+    border-radius: 5px;
+}
+
+
+.title {
+    font-size: 27px;
+    text-align: center;
+}
+
+.info > p {
+    font-size: 17px;
+    text-align: center;
+}
+
+.click {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.click>button {
+    background: white;
+    border:1px solid black;
+    text-decoration: none;
+    color: black;
+    width: 175px;
+    height: 50px;
+}

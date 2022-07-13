@@ -1,0 +1,89 @@
+.block {
+    background: #34CD9E;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.container {
+    margin: 40px;
+}
+
+.profile {
+    block-size: border-box;
+    width: 300px;
+    height: 375px;
+    background: #141E27;
+
+}
+
+.icon {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa-quote-right {
+    color: #34CD9E;
+    font-size: 50px;
+}
+
+.text {
+    color: #fff;
+    font-size: 17px;
+    text-align: center;
+}
+
+
+.avatar {
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: #34CD9E;
+}
+
+.name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
+
+.name > h3 {
+    color: #fff;
+    font-size: 20px;
+
+}
+
+
+.bottom-title {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.sub-title {
+    height:50px ;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+

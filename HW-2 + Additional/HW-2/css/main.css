@@ -1,0 +1,51 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.widget {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #2269BB;
+    width: 800px;
+    height: 250px;
+    color: white;
+    font-size: 60px;
+}
+
+.seconds-widget {
+    margin: 10px 6px 10px 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #16457A;
+    width: 260px;
+    height: 310px;
+    color: white;
+    font-size: 25px;
+}
+
+.container-second {
+    block-size: border-box;
+    display: flex;
+    justify-content: center;
+}
+
+.bottom-container {
+    display: flex;
+    justify-content: center;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #2269BB;
+    width: 800px;
+    height: 600px;
+    color: white;
+    font-size: 70px;
+}
+

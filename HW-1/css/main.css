@@ -1,0 +1,28 @@
+h2,h1{
+
+    background:#FEC356;
+    text-align: center;
+    color: darkslategrey;
+}
+a{
+    text-decoration: none;
+}
+
+
+#homer{
+    width: 200px;
+    height: 333.33px;
+
+
+
+}
+p{
+    color: grey;
+    background: lightyellow;
+    text-align: center;
+}
+
+ul{
+    background: lightyellow;
+    color: darkslategrey;
+}
