@@ -1,0 +1,30 @@
+
+@media screen and (max-width: 411px) {
+    .header-box, .second-box{
+        width: 406px;
+        margin: 5px;
+        height: 100px;
+    }
+    .head>p{
+        line-height: 100px;
+    }
+    .text-param{
+        font-size: 20px;
+    }
+
+    .bottom-box{
+        flex-direction: column;
+    }
+    .first-box{
+        width: 406px;
+        height: 406px;
+    }
+    .first-box>p{
+        line-height: 406px;
+    }
+
+    .second-box>p{
+        line-height: 100px;
+    }
+
+}

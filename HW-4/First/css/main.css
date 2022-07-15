@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+}
+
+.header-box{
+    margin: 5px;
+    border-radius: 9px;
+    width: 99vw;
+    background: silver;
+    height: 200px;
+}
+
+.head>p{
+    line-height: 150px;
+}
+.text-param{
+    text-align: center;
+    font-size: 55px;
+}
+
+
+.bottom-box{
+    display: flex;
+    flex-direction: row;
+}
+
+.first-box{
+    width: 74vw;
+    height: 400px;
+    background: silver;
+    border-radius: 9px;
+    margin: 5px;
+}
+
+.first-box>p{
+    line-height: 400px;
+}
+
+
+.second-box{
+    width: 25vw;
+    height: 400px;
+    background: silver;
+    border-radius: 9px;
+    margin: 5px;
+}
+
+.second-box>p{
+    line-height: 400px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

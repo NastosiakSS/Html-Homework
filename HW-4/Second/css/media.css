@@ -1,0 +1,50 @@
+@media screen and (max-width: 411px) {
+    .header-box {
+        width: 406px;
+        height: 100px;
+    }
+
+    .header-box > p {
+        line-height: 100px;
+    }
+
+    .text-params {
+        font-size: 20px;
+    }
+
+    .center-box {
+        width: 406px;
+        height: 150px;
+    }
+
+    .center-box > p {
+        line-height: 150px;
+    }
+
+    .under-boxes {
+        width: 406px;
+    }
+
+    .center-mini-boxes {
+        height: 100px;
+    }
+
+    .center-mini-boxes > p {
+        line-height: 100px;
+    }
+
+
+    .right-boxes{
+        display: block;
+        position: center;
+        bottom: 0;
+    }
+    .right-box{
+        width: 406px;
+        height: 100px;
+    }
+.right-box>p{
+    line-height: 100px;
+}
+}
+
